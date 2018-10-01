@@ -6,7 +6,6 @@ use DB;
 use Lang;
 use Exception;
 use Carbon\Carbon;
-use Centaur\Dispatches\Reply;
 use InvalidArgumentException;
 use Centaur\Replies\FailureReply;
 use Centaur\Replies\SuccessReply;
